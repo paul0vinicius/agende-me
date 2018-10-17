@@ -6,12 +6,12 @@
   "description": "Agendamento de consultas e exames para postos de saúde",
   "mustUpdateAt": "2019-10-17",
   "categories": [],
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
   "settingsSchema": {},
   "dependencies": {
-    "vtex.store-graphql": "2.x"
+    "vtex.store-graphql": "2.x",
+    "vtex.carousel": "1.x",
+    "vtex.store-components": "1.x"
   },
   "builders": {
     "pages": "0.x",
