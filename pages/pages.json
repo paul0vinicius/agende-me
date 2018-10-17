@@ -2,6 +2,9 @@
   "extensions": {
     "store/home/container/3": {
       "component": "ListProducts"
+    },
+    "store/home/container/4": {
+      "component": "ListServices"
     }
   }
 }
