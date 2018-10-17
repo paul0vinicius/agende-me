@@ -1,0 +1,7 @@
+{
+  "extensions": {
+    "store/home/container/3": {
+      "component": "ListProducts"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "agendeme",
+  "vendor": "sus",
+  "version": "0.1.0",
+  "title": "AgendeME",
+  "description": "Agendamento de consultas e exames para postos de saúde",
+  "mustUpdateAt": "2019-10-17",
+  "categories": [],
+  "registries": [
+    "smartcheckout"
+  ],
+  "settingsSchema": {},
+  "dependencies": {
+    "vtex.store-graphql": "2.x"
+  },
+  "builders": {
+    "pages": "0.x",
+    "react": "2.x"
+  }
+}
